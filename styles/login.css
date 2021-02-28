@@ -1,0 +1,22 @@
+.login_form {
+    font-size:20px;
+    min-height:200px;
+    margin: 50px;
+}
+
+.register_btn{
+    background: royalblue !important;
+}
+
+.wrong_user_msg{
+    color: red;
+}
+
+.empty_field_msg{
+    color: red;
+    font-size: small;
+}
+
+.register_complete{
+    color: gold;
+}

@@ -1,0 +1,66 @@
+.menu_background {
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.99)), url(../images/login_laptop_background.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    color: white;
+}
+
+h1 {
+    padding-right: 350px;
+    font-size: 75px;
+    background-color: rgb(70, 130, 180, 0.3);
+}
+
+h2 {
+    padding-right: 350px;
+    background-color: rgb(70, 130, 180, 0.3);
+}
+
+.main_menu_div{
+    width: 100%;
+}
+
+
+li {
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+
+li a:hover{
+    color: skyblue;
+    text-decoration: underline;
+    
+}
+
+li a{
+    text-decoration: none;
+}
+
+.balance {
+    padding-top: 150px;
+    font-size: 50px;
+}
+
+.ul_menu{
+    list-style-type: disc !important;
+    color: gold !important;
+    padding-left: 30px !important;
+}
+
+
+.account_created {
+    color: gold !important;
+}
+
+.no_currency_available {
+    color: tomato !important;
+}

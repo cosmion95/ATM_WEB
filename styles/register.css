@@ -1,0 +1,17 @@
+.register_form {
+    font-size:20px;
+    min-height:200px;
+    padding-bottom: 20px;
+}
+
+.cancel_register_btn{
+    background: tomato !important;
+}
+
+.register_btn{
+    background: royalblue !important;
+}
+
+.wrong_user_msg{
+    color: red;
+}
